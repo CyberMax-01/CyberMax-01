@@ -1,0 +1,14 @@
+<svg width="900" height="240" viewBox="0 0 900 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="240" rx="12" fill="#0B1120"/>
+  <rect x="6" y="6" width="888" height="228" rx="8" fill="#0B1120" stroke="#00ff41"/>
+  <text x="30" y="36" font-family="Courier New, monospace" font-size="20" fill="#00ff41" font-weight="bold">CyberMax_01@github:~$ ./snake_contributions.sh</text>
+  <text x="30" y="68" font-family="Courier New, monospace" font-size="13" fill="#00cc33">Contributions feed the snake. Keep coding. Keep growing.</text>
+  <rect x="24" y="90" width="852" height="120" rx="8" fill="#070B14"/>
+  <circle cx="80" cy="150" r="7" fill="#00ff41"/>
+  <rect x="100" y="143" width="80" height="14" rx="3" fill="#00ff41" opacity="0.35"/>
+  <path d="M180 150 Q240 120 300 150 T420 150 T540 150 T660 150 T780 150" stroke="#00ff41" stroke-width="10" fill="none" opacity="0.9"/>
+  <circle cx="810" cy="118" r="10" fill="#00ff41"/>
+  <text x="36" y="225" font-family="Courier New, monospace" font-size="12" fill="#00ff41" opacity="0.6">status: feeding</text>
+  <text x="250" y="225" font-family="Courier New, monospace" font-size="12" fill="#00ff41" opacity="0.6">level: 9999+</text>
+  <text x="700" y="225" font-family="Courier New, monospace" font-size="12" fill="#00ff41" opacity="0.6">elapsed: ∞</text>
+</svg>
