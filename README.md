@@ -27,8 +27,8 @@
 
 <!-- GitHub Trophies -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=CyberMax-01&theme=radical&no-frame=true&no-bg=false&margin-w=8&column=7">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=CyberMax-01&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=CyberMax-01&theme=radical&no-frame=true&margin-w=8&column=7">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=CyberMax-01&theme=flat&no-frame=true&margin-w=8&column=7" alt="trophies">
 </picture>
 
 <br/>
@@ -53,14 +53,11 @@
 <a href="https://www.instagram.com/cybermax/">
   <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram">
 </a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/cybermax/">
-  <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F" alt="Facebook">
-</a>&nbsp;&nbsp;
 <a href="mailto:cybermax2215@gmail.com">
   <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email">
 </a>&nbsp;&nbsp;
-<a href="https://github.com/CyberMax-01">
-  <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0A101F" alt="GitHub">
+<a href="https://discord.gg/BAgMRJv9CQ">
+  <img src="https://img.shields.io/badge/Discord-0A101F?style=for-the-badge&logo=discord&logoColor=5865F2&labelColor=0A101F" alt="Discord">
 </a>
 </div>
 
