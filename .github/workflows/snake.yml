@@ -1,0 +1,19 @@
+name: Generate Snake Contribution Grid
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: CyberMax-01
+          outputs: |
+            output/snake-light.svg?palette=github-light
+            output/snake-dark.svg?palette=github-dark
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update snake contribution grid"

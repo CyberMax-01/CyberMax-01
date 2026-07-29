@@ -2,11 +2,27 @@
   "projects": [
     {
       "name": "CyberMax-01/profile",
-      "description": "Hacker-themed GitHub profile with animated SVG banner, fastfetch info, and snake animations.",
-      "stars": 1,
+      "description": "Hacker-themed GitHub profile with animated SVG banner and snake animations.",
+      "stars": 0,
       "forks": 0,
       "language": "HTML",
       "url": "https://github.com/CyberMax-01/CyberMax-01"
+    },
+    {
+      "name": "mern-auth-starter",
+      "description": "Minimal MERN auth with email/password, Google and GitHub OAuth.",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "url": "https://github.com/CyberMax-01/mern-auth-starter"
+    },
+    {
+      "name": "VideoTube",
+      "description": "Video sharing platform",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "url": "https://github.com/CyberMax-01/VideoTube"
     }
   ]
 }

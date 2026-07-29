@@ -1,27 +1,95 @@
-<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="CyberMax_01" width="1500" height="500" viewBox="0 0 1500 500" font-family="ui-monospace,Menlo,Consolas,Liberation Mono,monospace">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0B1120"/>
-      <stop offset="1" stop-color="#07123A"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#2563EB"><animate attributeName="stop-color" values="#2563EB;#06B6D4;#10B981;#2563EB" dur="10s" repeatCount="indefinite"/></stop>
-      <stop offset="0.5" stop-color="#06B6D4"><animate attributeName="stop-color" values="#06B6D4;#10B981;#2563EB;#06B6D4" dur="10s" repeatCount="indefinite"/></stop>
-      <stop offset="1" stop-color="#10B981"><animate attributeName="stop-color" values="#10B981;#2563EB;#06B6D4;#10B981" dur="10s" repeatCount="indefinite"/></stop>
-    </linearGradient>
-    <clipPath id="winClip"><rect x="2" y="2" width="1496" height="496" rx="18"/></clipPath>
-  </defs>
-  <rect x="0" y="0" width="1500" height="500" fill="url(#bg)"/>
-  <image href="assets/ghost-candidate.png" x="60" y="80" height="340" preserveAspectRatio="xMidYMid meet"/>
-  <g transform="translate(980,90)">
-    <text x="0" y="0" font-size="34" fill="#00ff41" font-weight="bold">CyberMax_01</text>
-    <text x="0" y="40" font-size="20" fill="#86EFAC">[ Hacker | Developer | Linux Enthusiast ]</text>
-    <text x="0" y="80" font-size="18" fill="#4ADE80">$ whoami</text>
-    <text x="0" y="110" font-size="15" fill="#86EFAC">▸ GhostOps mode: ON</text>
-    <text x="0" y="135" font-size="15" fill="#86EFAC">▸ Build. Break. Learn.</text>
-    <text x="0" y="160" font-size="15" fill="#86EFAC">▸ Contact: CyberMax@example.com</text>
-    <text x="0" y="195" font-size="13" fill="#22C55E">█████████████████████████████</text>
-    <text x="0" y="220" font-size="13" fill="#22C55E">█ profile banner ▸ COD Ghost █</text>
-    <text x="0" y="245" font-size="13" fill="#22C55E">█████████████████████████████</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" role="img" aria-label="Aaditya Birla — profile.sh --live">
+<defs>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#A78BFA"><animate attributeName="stop-color" values="#A78BFA;#22D3EE;#10B981;#A78BFA" dur="10s" repeatCount="indefinite"/></stop>
+  <stop offset="0.5" stop-color="#22D3EE"><animate attributeName="stop-color" values="#22D3EE;#10B981;#A78BFA;#22D3EE" dur="10s" repeatCount="indefinite"/></stop>
+  <stop offset="1" stop-color="#10B981"><animate attributeName="stop-color" values="#10B981;#A78BFA;#22D3EE;#10B981" dur="10s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<linearGradient id="panelGrad" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A101F"/><stop offset="1" stop-color="#0C1426"/></linearGradient>
+<linearGradient id="infoGrad" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#7C3AED"/>
+  <stop offset="1" stop-color="#22D3EE"/>
+</linearGradient>
+<filter id="glow3" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
+<filter id="glow8" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="8"/></filter>
+<filter id="shadow" x="-10%" y="-10%" width="120%" height="120%"><feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#00000080"/></filter>
+<clipPath id="winClip"><rect x="2" y="2" width="1176" height="606" rx="18"/></clipPath>
+<clipPath id="avatarClip"><circle cx="276" cy="260" r="100"/></clipPath>
+</defs>
+<rect x="2" y="2" width="1176" height="606" rx="18" fill="#070B16"/>
+<g clip-path="url(#winClip)">
+<rect x="2" y="2" width="1176" height="606" fill="url(#panelGrad)"/>
+<rect x="2" y="2" width="1176" height="46" fill="#0B1222"/>
+<line x1="2" y1="48" x2="1178" y2="48" stroke="rgba(255,255,255,0.08)"/>
+<circle cx="30" cy="25" r="5.5" fill="#ff5f56"/>
+<circle cx="50" cy="25" r="5.5" fill="#ffbd2e"/>
+<circle cx="70" cy="25" r="5.5" fill="#27c93f"/>
+<text x="590" y="29" text-anchor="middle" font-size="12" fill="#94A3B8">cybermax2215@gmail.com — % ./profile.sh --live</text>
+
+<g opacity="0">
+  <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.3s" fill="freeze"/>
+  <rect x="36" y="82" width="480" height="496" rx="12" fill="#0A101F" stroke="url(#infoGrad)" stroke-width="2" opacity="0.6" filter="url(#glow3)"/>
+  <rect x="36" y="82" width="480" height="496" rx="12" fill="#0C1426" stroke="rgba(34,211,238,0.2)"/>
+  
+  <image href="https://avatars.githubusercontent.com/u/181429566?v=4" x="36" y="82" width="480" height="496" rx="12" opacity="0.06" preserveAspectRatio="xMidYMid slice"/>
+  
+  <circle cx="276" cy="260" r="100" fill="#0C1426" stroke="url(#accent)" stroke-width="3" filter="url(#shadow)"/>
+  <image href="https://avatars.githubusercontent.com/u/181429566?v=4" x="176" y="160" width="200" height="200" clip-path="url(#avatarClip)" preserveAspectRatio="xMidYMid"/>
+  
+  <text x="276" y="400" text-anchor="middle" font-size="28" font-weight="bold" fill="#F8FAFC">Aaditya Birla</text>
+  <text x="276" y="425" text-anchor="middle" font-size="15" fill="#94A3B8">CyberMax-01</text>
+  
+  <line x1="130" y1="440" x2="422" y2="440" stroke="url(#accent)" stroke-width="1.5" opacity="0.5"/>
+  
+  <text x="276" y="462" text-anchor="middle" font-size="13" fill="#94A3B8">Hacker | Developer | Linux Enthusiast</text>
+  <text x="276" y="482" text-anchor="middle" font-size="13" fill="#94A3B8">Cybersecurity · Open Source · DSA</text>
+  <text x="276" y="510" text-anchor="middle" font-size="12" fill="#64748B">▸ GhostOps mode: ON</text>
+  
+  <text x="276" y="540" text-anchor="middle" font-size="11" fill="#64748B" letter-spacing="1">📧 cybermax2215@gmail.com</text>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.6s" fill="freeze"/>
+  
+  <rect x="540" y="82" width="610" height="220" rx="10" fill="#0C1426" stroke="rgba(34,211,238,0.2)" stroke-width="1.5"/>
+  
+  <text x="558" y="108" font-size="11" fill="#64748B" letter-spacing="2">STATUS</text>
+  <line x1="558" y1="115" x2="1132" y2="115" stroke="#1E293B" stroke-width="1"/>
+  
+  <text x="558" y="138" font-size="13" font-weight="bold" fill="#E2E8F0">$ whoami</text>
+  <text x="630" y="138" font-size="13" fill="#94A3B8">Aaditya Birla</text>
+  <text x="558" y="160" font-size="13" font-weight="bold" fill="#E2E8F0">$ uptime</text>
+  <text x="630" y="160" font-size="13" fill="#94A3B8">Building since 2024</text>
+  <text x="558" y="182" font-size="13" font-weight="bold" fill="#E2E8F0">$ echo $SHELL</text>
+  <text x="630" y="182" font-size="13" fill="#94A3B8">/usr/bin/zsh (GhostOps)</text>
+  <text x="558" y="204" font-size="13" font-weight="bold" fill="#E2E8F0">$ ls -la /skills/</text>
+  <text x="630" y="204" font-size="13" fill="#94A3B8">Python JS C++ Linux Go</text>
+  <text x="558" y="226" font-size="13" font-weight="bold" fill="#E2E8F0">$ cat /etc/motd</text>
+  <text x="630" y="226" font-size="13" fill="#94A3B8">Build. Break. Learn. Repeat.</text>
+  <text x="558" y="248" font-size="13" font-weight="bold" fill="#E2E8F0">$ _</text>
+  <g>
+    <text x="590" y="248" font-size="13" fill="#22D3EE" filter="url(#glow3)">█</text>
+    <animate attributeName="opacity" values="1;0" dur="0.5s" begin="3s" repeatCount="indefinite"/>
   </g>
+</g>
+
+<g opacity="0">
+  <animate attributeName="opacity" values="0;1" dur="0.8s" begin="1.0s" fill="freeze"/>
+  
+  <rect x="540" y="316" width="610" height="262" rx="10" fill="#0C1426" stroke="rgba(16,185,129,0.2)" stroke-width="1.5"/>
+  
+  <text x="558" y="342" font-size="11" fill="#64748B" letter-spacing="2">PROJECTS</text>
+  <line x1="558" y1="349" x2="1132" y2="349" stroke="#1E293B" stroke-width="1"/>
+
+  <circle cx="570" cy="370" r="4" fill="#A78BFA"/>
+  <text x="582" y="374" font-size="13" font-weight="bold" fill="#E2E8F0">mern-auth-starter</text>
+  <text x="582" y="392" font-size="12" fill="#64748B">Minimal MERN auth with email/password, Google &amp; GitHub OAuth</text>
+  
+  <circle cx="570" cy="418" r="4" fill="#10B981"/>
+  <text x="582" y="422" font-size="13" font-weight="bold" fill="#E2E8F0">VideoTube</text>
+  <text x="582" y="440" font-size="12" fill="#64748B">Video sharing platform</text>
+
+  <text x="845" y="554" text-anchor="middle" font-size="11" fill="#64748B">▸ more projects loading...</text>
+</g>
+</g>
 </svg>
