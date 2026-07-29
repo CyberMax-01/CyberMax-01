@@ -27,8 +27,8 @@
 
 <!-- GitHub Trophies -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=CyberMax-01&theme=radical&no-frame=true&margin-w=8&column=7">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=CyberMax-01&theme=flat&no-frame=true&margin-w=8&column=7" alt="trophies">
+  <source media="(prefers-color-scheme: dark)" srcset="https://trophy.benkou.dev/?username=CyberMax-01&theme=radical&no-frame=true&margin-w=8&column=7">
+  <img width="100%" src="https://trophy.benkou.dev/?username=CyberMax-01&theme=flat&no-frame=true&margin-w=8&column=7" alt="trophies">
 </picture>
 
 <br/>
