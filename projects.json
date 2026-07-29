@@ -1,4 +1,12 @@
-[
-  {"name":"CyberMax-01/profile","description":"My personal hacker-style GitHub profile.","language":"Markdown","link":"https://github.com/CyberMax-01/profile"},
-  {"name":"example","description":"Placeholder project. Replace me.","language":"","link":""}
-]
+{
+  "projects": [
+    {
+      "name": "CyberMax-01/profile",
+      "description": "Hacker-themed GitHub profile with animated SVG banner, fastfetch info, and snake animations.",
+      "stars": 1,
+      "forks": 0,
+      "language": "HTML",
+      "url": "https://github.com/CyberMax-01/CyberMax-01"
+    }
+  ]
+}

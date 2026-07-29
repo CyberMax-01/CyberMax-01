@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="260" viewBox="0 0 760 260" font-family="ui-monospace,Menlo,Consolas,Liberation Mono,monospace" role="img" aria-label="CyberMax snake animation dark">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#050505"/>
+    </linearGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="3"/></filter>
+  </defs>
+  <rect x="2" y="2" width="756" height="256" rx="14" fill="url(#bg)"/>
+  <text x="24" y="36" font-size="18" fill="#00ff41">CyberMax@profile:~</text>
+  <text x="24" y="70" font-size="13" fill="#7CFC00">$ play snake</text>
+  <g transform="translate(60,90)">
+    <rect x="0" y="0" width="640" height="130" rx="10" fill="#0B1120" stroke="#064E3B"/>
+    <text x="16" y="34" font-size="12" fill="#00ff41">█████ Contribution Snake █████</text>
+    <text x="16" y="70" font-size="12" fill="#34D399">~ dark mode</text>
+    <text x="16" y="100" font-size="11" fill="#4ADE80">“Code never sleeps. Neither does my snake.”</text>
+  </g>
+</svg>

@@ -1,9 +1,27 @@
-<svg width="600" height="120" viewBox="0 0 600 120" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <rect width="600" height="120" fill="#0a0e17"/>
-  <rect x="4" y="4" width="592" height="112" rx="12" fill="#0d1117" stroke="#00ff41" stroke-width="2"/>
-  <rect x="4" y="4" width="592" height="112" rx="12" fill="#050505" fill-opacity="0"/>
-  <text x="30" y="55" font-family="Courier New, monospace" font-size="24" font-weight="bold" fill="#00ff41">&gt; CyberMax_01</text>
-  <text x="30" y="85" font-family="Courier New, monospace" font-size="14" fill="#00cc33">&gt; printf("Hello, World!");</text>
-  <text x="490" y="95" font-family="Courier New, monospace" font-size="12" fill="#00ff41" opacity="0.7">$ whoami</text>
-  <text x="490" y="75" font-family="Courier New, monospace" font-size="12" fill="#00ff41" opacity="0.7">$ ./run.sh</text>
+<svg xmlns="http://www.w3.org/2000/svg" role="img" aria-label="CyberMax_01" width="1500" height="500" viewBox="0 0 1500 500" font-family="ui-monospace,Menlo,Consolas,Liberation Mono,monospace">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#07123A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2563EB"><animate attributeName="stop-color" values="#2563EB;#06B6D4;#10B981;#2563EB" dur="10s" repeatCount="indefinite"/></stop>
+      <stop offset="0.5" stop-color="#06B6D4"><animate attributeName="stop-color" values="#06B6D4;#10B981;#2563EB;#06B6D4" dur="10s" repeatCount="indefinite"/></stop>
+      <stop offset="1" stop-color="#10B981"><animate attributeName="stop-color" values="#10B981;#2563EB;#06B6D4;#10B981" dur="10s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+    <clipPath id="winClip"><rect x="2" y="2" width="1496" height="496" rx="18"/></clipPath>
+  </defs>
+  <rect x="0" y="0" width="1500" height="500" fill="url(#bg)"/>
+  <image href="assets/ghost-candidate.png" x="60" y="80" height="340" preserveAspectRatio="xMidYMid meet"/>
+  <g transform="translate(980,90)">
+    <text x="0" y="0" font-size="34" fill="#00ff41" font-weight="bold">CyberMax_01</text>
+    <text x="0" y="40" font-size="20" fill="#86EFAC">[ Hacker | Developer | Linux Enthusiast ]</text>
+    <text x="0" y="80" font-size="18" fill="#4ADE80">$ whoami</text>
+    <text x="0" y="110" font-size="15" fill="#86EFAC">▸ GhostOps mode: ON</text>
+    <text x="0" y="135" font-size="15" fill="#86EFAC">▸ Build. Break. Learn.</text>
+    <text x="0" y="160" font-size="15" fill="#86EFAC">▸ Contact: CyberMax@example.com</text>
+    <text x="0" y="195" font-size="13" fill="#22C55E">█████████████████████████████</text>
+    <text x="0" y="220" font-size="13" fill="#22C55E">█ profile banner ▸ COD Ghost █</text>
+    <text x="0" y="245" font-size="13" fill="#22C55E">█████████████████████████████</text>
+  </g>
 </svg>
