@@ -107,8 +107,8 @@
     </rect>
 
     <!-- Animated snake body (crawling effect) -->
-    <path d="M0 7 L833 7" stroke="url(#snakeGrad)" stroke-width="6" fill="none" stroke-linecap="round" stroke-dasharray="20 10">
-      <animate attributeName="stroke-dashoffset" values="0;-30" dur="0.8s" repeatCount="indefinite"/>
+    <path d="M85 7 Q93 -3 102 7 Q110 17 119 7 Q128 -3 136 7 Q145 17 153 7 Q162 -3 170 7 Q179 17 187 7 Q196 -3 204 7 Q213 17 221 7 Q230 -3 238 7 Q247 17 255 7 Q264 -3 272 7 Q281 17 289 7 Q298 -3 306 7 Q315 17 323 7 Q332 -3 340 7 Q349 17 357 7 Q366 -3 374 7 Q383 17 391 7 Q400 -3 408 7 Q417 17 425 7 Q434 -3 442 7 Q451 17 459 7 Q468 -3 476 7 Q485 17 493 7 Q502 -3 510 7 Q519 17 527 7 Q536 -3 544 7 Q553 17 561 7 Q570 -3 578 7 Q587 17 595 7 Q604 -3 612 7 Q621 17 629 7 Q638 -3 646 7 Q655 17 663 7 Q672 -3 680 7 Q689 17 697 7 Q706 -3 714 7 Q723 17 731 7 Q740 -3 748 7 Q757 17 765 7 Q774 -3 782 7 Q791 17 799 7 Q808 -3 816 7 Q825 17 833 7" stroke="url(#snakeGrad)" stroke-width="6" fill="none" stroke-linecap="round" stroke-dasharray="10 14">
+      <animate attributeName="stroke-dashoffset" values="0;-24" dur="0.6s" repeatCount="indefinite"/>
     </path>
 
     <!-- Snake head glow -->
