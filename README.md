@@ -39,3 +39,20 @@
 <a href="mailto:cybermax2215@gmail.com">
   <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email">
 </a>
+
+<br/>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberMax-01/CyberMax-01/main/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CyberMax-01/CyberMax-01/main/output/snake-light.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/CyberMax-01/CyberMax-01/main/output/snake-light.svg">
+</picture>
+
+<br/>
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CyberMax-01/CyberMax-01/projects/projects.svg">
+  <img width="100%" src="https://raw.githubusercontent.com/CyberMax-01/CyberMax-01/projects/projects.svg" alt="projects">
+</picture>
