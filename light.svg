@@ -34,8 +34,8 @@
       <animate attributeName="opacity" values="0.35;1;0.35" dur="2s" repeatCount="indefinite"/>
     </circle>
     <rect x="282" y="214" width="460" height="2" fill="#0891B2" opacity="0.35"/>
-    <text x="282" y="246" font-size="16" fill="#475569">Hacker / Developer / Linux Enthusiast</text>
-    <text x="282" y="272" font-size="14" fill="#94A3B8">Cybersecurity · Open Source · DSA</text>
+    <text x="282" y="246" font-size="16" fill="#475569">Developer / Linux Enthusiast</text>
+    <text x="282" y="272" font-size="14" fill="#94A3B8">Open Source · DSA</text>
 
     <rect x="800" y="92" width="332" height="196" rx="8" fill="#F8FAFC"/>
     <rect x="800" y="92" width="332" height="24" rx="8" fill="#F1F5F9"/>
